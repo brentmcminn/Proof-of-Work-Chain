@@ -1,0 +1,25 @@
+HOMEWORK out-of-box-blockchain
+
+outdoor
+display 
+castle
+outside
+transfer
+lottery
+retire 
+leave 
+error 
+control
+parrot
+bread
+
+private key: 0xd72c182751e2671DbBb858dCFbb0b8C4b0AfE2C1
+
+precompile address: 444
+
+
+NODE1:  0x65598Db05930F4A32800A05eef186D7264AB85c4
+
+ENODE: enode://4e3893f216f574079487084841c4165f9d8812c81e39ea7c3ee53264df84c0afdb099d4b713855d2b54d28ec310da616c21ff8f5fd4894003d6469bd76f2328d@127.0.0.1:30303
+
+NODE2: 0xd7048C09fDed6993A9d795C756b33272Cf4695D0

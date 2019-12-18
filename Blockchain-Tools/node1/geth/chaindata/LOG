@@ -1,0 +1,36 @@
+=============== Dec 17, 2019 (CST) ===============
+21:59:02.583711 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:59:02.590693 db@open opening
+21:59:02.761236 version@stat F·[] S·0B[] Sc·[]
+21:59:02.764243 db@janitor F·2 G·0
+21:59:02.764243 db@open done T·173.5498ms
+21:59:03.079426 db@close closing
+21:59:03.087407 db@close done T·7.9808ms
+=============== Dec 17, 2019 (CST) ===============
+21:59:27.818872 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:59:27.819895 version@stat F·[] S·0B[] Sc·[]
+21:59:27.819895 db@open opening
+21:59:27.819895 journal@recovery F·1
+21:59:27.821865 journal@recovery recovering @1
+21:59:27.871730 memdb@flush created L0@2 N·21261 S·1MiB "\x00\x00\xae..\x82\x88\x11,v9389":"\xff\xfc\x94..\xa5\x05\xa1,v9518"
+21:59:27.871730 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+21:59:27.880706 db@janitor F·3 G·0
+21:59:27.880706 db@open done T·60.8105ms
+=============== Dec 17, 2019 (CST) ===============
+22:00:05.383074 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:00:05.383074 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+22:00:05.384079 db@open opening
+22:00:05.384079 journal@recovery F·1
+22:00:05.384079 journal@recovery recovering @3
+22:00:05.385076 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+22:00:05.396035 db@janitor F·3 G·0
+22:00:05.396035 db@open done T·11.9561ms
+=============== Dec 17, 2019 (CST) ===============
+22:03:16.169639 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:03:16.170636 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+22:03:16.170636 db@open opening
+22:03:16.170636 journal@recovery F·1
+22:03:16.171632 journal@recovery recovering @5
+22:03:16.171632 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+22:03:16.186593 db@janitor F·3 G·0
+22:03:16.187591 db@open done T·16.9553ms
